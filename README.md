@@ -15,13 +15,13 @@ Utilizei o [codemagic.io](https://codemagic.io/start/) para fazer o build do rea
 Pretendo adicionar um drawer no app para facilitar o compartilhamento do app e um campo para contatar.
 
 
-## Screen
+## PrintScreen
 
-![Icon Launcher](..\Imc\PrintScreen\icon.png)
+![Icon Launcher](PrintScreen/icon.png)
 
-![Gif Splashscreen](..\Imc\PrintScreen\20201001_041109.gif)
+![Gif Splashscreen](PrintScreen/20201001_041109.gif)
 
-![Validator](..\Imc\PrintScreen\Capture+_2020-10-01-04-11-57.png)
+![Validator](PrintScreen/Capture+_2020-10-01-04-11-57.png)
 
-![IMC](..\Imc\PrintScreen\Capture+_2020-10-01-04-11-43.png)
+![IMC](PrintScreen/Capture+_2020-10-01-04-11-43.png)
 
