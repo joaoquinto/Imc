@@ -4,8 +4,8 @@ class ImcClass {
   TextEditingController weightController = TextEditingController();
   TextEditingController heightController = TextEditingController();
   String _infoText = "Informe seus dados";
-
   GlobalKey<FormState> _formKey = GlobalKey<FormState>();
+
   GlobalKey get formKey => _formKey;
 
   String get infoText => _infoText;
