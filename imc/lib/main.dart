@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
       home: Scaffold(
         body: SplashScreen(
           navigateAfterSeconds: Imc(),
-          seconds: 10,
+          seconds: 5,
           image: Image.asset(asset),
           photoSize: 100,
           backgroundColor: Colors.green,
