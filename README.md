@@ -17,7 +17,7 @@ Pretendo adicionar um drawer no app para facilitar o compartilhamento do app e u
 
 ## Screen
 
-![Icon Launcher](..\Imc\PrintScreen\icon.png)
+![Icon Launcher](\PrintScreen\icon.png)
 
 ![Gif Splashscreen](..\Imc\PrintScreen\20201001_041109.gif)
 
