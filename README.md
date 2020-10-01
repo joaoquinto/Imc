@@ -15,7 +15,7 @@ Utilizei o [codemagic.io](https://codemagic.io/start/) para fazer o build do rea
 Pretendo adicionar um drawer no app para facilitar o compartilhamento do app e um campo para contatar.
 
 
-## Screen
+## PrintScreen
 
 ![Icon Launcher](PrintScreen/icon.png)
 
