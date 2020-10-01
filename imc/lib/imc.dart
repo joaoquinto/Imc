@@ -12,6 +12,36 @@ class _ImcState extends State<Imc> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: Drawer(
+          child: ListView(
+            padding: EdgeInsets.zero,
+            children: [
+              DrawerHeader(
+                  decoration: BoxDecoration(color: Colors.green),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        children: [
+                          Container(
+                            height: 100,
+                            child: Image.asset('img/joaoquinto.jpg'),
+                          ),
+                        ],
+                      ),
+                      Padding(
+                        padding: const EdgeInsets.only(top: 5.0),
+                        child: Text(
+                          'Feito por João Victor Oliveira Pereira',
+                        ),
+                      ),
+                      SelectableText('Github/GitLab user: @joaoquinto',
+                          style: TextStyle(color: Colors.black))
+                    ],
+                  ))
+            ],
+          ),
+        ),
         appBar: AppBar(
           title: Text('Calcule o seu IMC'),
           centerTitle: true,
